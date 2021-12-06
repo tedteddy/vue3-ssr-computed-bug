@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# vue3 computed issue
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+use `computed` in a SSR project does not active as expected
 
 ## Setup
 
@@ -25,5 +25,3 @@ Build the application for production:
 ```bash
 yarn build
 ```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
